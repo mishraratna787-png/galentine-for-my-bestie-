@@ -1,0 +1,2 @@
+# galentine-for-my-bestie-
+                    }     &lt;/style> &lt;/head> &lt;body>      &lt;div class="heart">💗&lt;/div>     &lt;h1>Happy Galentine, My Bestie!&lt;/h1>     &lt;p>You are the sunshine in my chaotic life ☀️&lt;/p>     &lt;p>Thank you for being my therapist, comedian, and soulmate friend 😭💖&lt;/p>      &lt;button onclick="showMessage()">Click for a surprise&lt;/button>      &lt;script>         fun
